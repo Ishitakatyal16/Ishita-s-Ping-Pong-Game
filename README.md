@@ -40,6 +40,7 @@ After you read the instructions and click start you will see Our Ping Pong game 
 * The game board
 * Two bars
 * And our Ping Pong Ball
+
 There will be 2 rods at the top and bottom of the screen. Both rods will be controlled with the same keys. In other words, they will move together. The rods will only move horizontally using the 'A' and 'D' keys.To initially make the ball move press 'Enter'. The losing rod will get the ball for the next match and the rods and ball will move to center.The score will be counted from the start of every match which is displayed on the scoreboard.
 
 ## The Winner
