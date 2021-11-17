@@ -23,6 +23,7 @@ As a child I was quite curious about the backend working of computer games, and 
    * create styles.css
    * create scripy.js
    * create media folder
+
 I used "visual studio code" as my text editor and created some folders and files for my project. I like to organize everything from the beginning.
 
 
